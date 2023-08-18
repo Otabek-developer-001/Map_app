@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Map app</string>
+    <string name="pemission_location_rationale">This app requires the location permission to be \n    granted.</string>
+</resources>
